@@ -1,0 +1,17 @@
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.csprojAssemblyReference.cache
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.LoginForm.resources
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.Properties.Resources.resources
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.csproj.GenerateResource.cache
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.csproj.CoreCompileInputs.cache
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\bin\Debug\CarRentalProject.exe.config
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\bin\Debug\CarRentalProject.exe
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\bin\Debug\CarRentalProject.pdb
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.exe
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.pdb
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.MainForm.resources
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\bin\Debug\CarRentalDB.mdf
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\bin\Debug\CarRentalDB_log.ldf
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.ClientsForm.resources
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.CarsForm.resources
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.OrderForm.resources
+D:\CsharpMyDevelopments\CarRentalProject\CarRentalProject\obj\Debug\CarRentalProject.OrdersList.resources
